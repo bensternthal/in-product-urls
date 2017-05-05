@@ -1,0 +1,19 @@
+## Standard Redirects
+https://support.mozilla.org/kb/controlledaccess
+https://support.mozilla.org/kb/firefox-android-tracking-protection
+https://support.mozilla.org/kb/how-does-insecure-content-affect-safety-android
+https://support.mozilla.org/kb/flash-protected-mode-settings
+https://support.mozilla.org/kb/private-browsing-firefox-android
+https://support.mozilla.org/kb/make-firefox-default-browser-android?utm_source=inproduct&amp;utm_medium=settings&amp;utm_campaign=mobileandroid
+https://support.mozilla.org/kb/notifications-firefox-android?utm_source=inproduct&amp;utm_medium=notifications&amp;utm_campaign=mobileandroid"
+https://support.mozilla.org/products/mobile?utm_source=inproduct&amp;utm_medium=default-bookmarks&amp;utm_campaign=mobileandroid
+
+## Wildcard Redirects - Version & Platform Are Not Currently Specified In Kitsune Admin
+https://support.mozilla.org/1/mobile/%VERSION%/%OS%/%LOCALE%/faq
+https://support.mozilla.org/1/mobile/%VERSION%/%OS%/%LOCALE%/unsupported-version
+https://support.mozilla.org/1/mobile/%VERSION%/%OS%/%LOCALE%/new-android
+https://support.mozilla.org/1/mobile/%VERSION%/%OS%/%LOCALE%/mobile-help
+
+Example:
+https://support.mozilla.org/1/mobile/55.a01/Android/en/mobile-help
+https://support.mozilla.org/1/mobile/55.a01/Android/en/new-android

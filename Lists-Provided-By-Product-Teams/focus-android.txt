@@ -1,0 +1,5 @@
+https://support.mozilla.org/1/mobile/${appVersion}/Android/${langTag}/usage-data
+https://support.mozilla.org/kb/focus-default-android
+https://support.mozilla.org/kb/klar-default-android
+https://support.mozilla.org/kb/focus-android
+https://support.mozilla.org/kb/klar-android
