@@ -1,5 +1,4 @@
 1855168 /
-1609403 /en-US/
 135062 /en-US/products/thunderbird
 134332 /kb/get-started-firefox-overview-main-features
 125265 /en-US/kb/insecure-password-warning-firefox?as=u&utm_source=inproduct
@@ -192,3 +191,10 @@
 2367 /en-US/kb/enable-drm?as=u&utm_source=inproduct
 2350 /kb/private-browsing-firefox-android
 2331 /zh-CN/kb/end-support-windows-xp-and-vista?as=u&utm_source=inproduct
+2293 /fr/kb/reinitialiser-firefox-restaurer-modules-parametres?redirectlocale=en-US&redirectslug=reset-firefox-easily-fix-most-problems
+2277 /fr/kb/fin-support-windows-xp-vista?as=u&utm_source=inproduct
+2269 /en-US/kb/troubleshoot-time-errors-secure-websites?as=u&utm_source=inproduct
+2251 /1/firefox/53.0/WINNT/nl/insecure-password
+2250 /fr/products/firefox?as=u&utm_source=inproduct
+2245 /fr/kb/end-support-windows-xp-and-vista?as=u&utm_source=inproduct
+2232 /es/kb/Informaci%C3%B3n-de-la-p%C3%A1gina?redirectlocale=en-US&as=u&redirectslug=Page+Info+window&utm_source=inproduct
