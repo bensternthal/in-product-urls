@@ -1,5 +1,6 @@
 ## Standard Redirects
 
+```
 https://support.mozilla.org/kb/plugin-crash-reports
 https://support.mozilla.org/kb/remote-content-in-messages
 https://support.mozilla.org/kb/how-subscribe-news-feeds-and-blogs
@@ -13,6 +14,7 @@ https://support.mozilla.org/kb/new-thunderbird-38
 https://support.mozilla.org/kb/new-thunderbird-31
 https://support.mozilla.org/kb/new-thunderbird-24
 https://support.mozilla.org/kb/thunderbird-calendar-integration
+```
 
 ## Wildcard Redirects
 

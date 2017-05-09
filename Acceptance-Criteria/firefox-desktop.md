@@ -1,10 +1,14 @@
 ## Reference
+
 https://docs.google.com/spreadsheets/d/1Xm4LX-t4g-yMD3EWLwLtz7UbYllh4VwXEeafjKF3CbM/edit#gid=0
 
 ## Links From Joni post Rollback:
+
 https://docs.google.com/spreadsheets/d/1mKCE6vqmRl3LFDo5ZqWkr68JD2R7j3DxOwi9no2aeQQ/edit#gid=0
 
 ## Standard Redirects
+
+```
 https://support.mozilla.org/kb/what-does-your-connection-is-not-secure-mean
 https://support.mozilla.org/kb/certificate-pinning-reports
 https://support.mozilla.org/kb/how-resolve-sslv3-error-messages-firefox
@@ -17,8 +21,11 @@ https://support.mozilla.org/kb/fix-video-audio-problems-firefox-windows
 https://support.mozilla.org/@AB_CD@/products/firefox
 https://support.mozilla.org/kb/flash-protected-mode-settings
 https://support.mozilla.org/kb/flash-blocklists
+```
 
 ## Wildcard Redirects
+
+```
 https://support.mozilla.org/%LOCALE%/products/firefox 
 https://support.mozilla.org/1/firefox/%VERSION%/%OS%/%LOCALE%/accessibility-ppt
 https://support.mozilla.org/1/firefox/%VERSION%/%OS%/%LOCALE%/customize
@@ -98,3 +105,4 @@ https://support.mozilla.org/1/firefox/%VERSION%/%OS%/%LOCALE%/plugin-crashed
 https://support.mozilla.org/1/firefox/%VERSION%/%OS%/%LOCALE%/firefox-osxkey
 https://support.mozilla.org/1/firefox/%VERSION%/%OS%/%LOCALE%/keyboard-shortcuts
 https://support.mozilla.org/1/firefox/%VERSION%/%OS%/%LOCALE%/firefox-help
+```

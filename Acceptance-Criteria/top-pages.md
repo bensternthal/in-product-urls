@@ -1,3 +1,4 @@
+```
 1855168 /
 135062 /en-US/products/thunderbird
 134332 /kb/get-started-firefox-overview-main-features
@@ -182,3 +183,4 @@
 2250 /fr/products/firefox?as=u&utm_source=inproduct
 2245 /fr/kb/end-support-windows-xp-and-vista?as=u&utm_source=inproduct
 2232 /es/kb/Informaci%C3%B3n-de-la-p%C3%A1gina?redirectlocale=en-US&as=u&redirectslug=Page+Info+window&utm_source=inproduct
+```
