@@ -9,7 +9,6 @@
 37422 /fr/
 35101 /zh-CN/kb/insecure-password-warning-firefox?as=u&utm_source=inproduct
 31772 /es/
-31621 /static/sumo/fonts/MetaWebPro-Bold.ff98af2fcd50.ttf?v=1
 26021 /fr/kb/avertissement-mot-de-passe-non-securise-firefox?as=u&utm_source=inproduct
 26005 /fr/kb/insecure-password-warning-firefox?as=u&utm_source=inproduct
 25447 /zh-CN/
@@ -23,13 +22,10 @@
 21997 /en-US/kb/update-firefox-latest-version
 21944 /kb/how-change-your-default-browser-windows-10?utm_medium=firefox-browser&utm_source=firefox-browser
 21318 /en-US/kb/how-change-your-default-browser-windows-10?utm_content=firstrun&utm_medium=firefox-browser&utm_source=firefox-browser
-21220 /static/sumo/fonts/Moz-Regular-webfont.899b58e5c0a4.ttf?v=1
-20908 /geoip-suggestion?locales%5B%5D=en-US&locales%5B%5D=id
 20036 /1/firefox/53.0/WINNT/de/insecure-password
 20028 /1/firefox/53.0/WINNT/fr/insecure-password
 19689 /kb/reset-firefox-easily-fix-most-problems
 19405 /ru/
-19081 /static/sumo/fonts/Moz-Medium-webfont.2ba3ea1b08db.ttf?v=1
 19021 /favicon.ico
 18445 /en-US/products/firefox?as=u&utm_source=inproduct
 17783 /es-ES/kb/insecure-password-warning-firefox?as=u&utm_source=inproduct
@@ -59,7 +55,6 @@
 10366 /ja/
 10168 /en-US/kb/Page%20Info%20window?as=u&utm_source=inproduct
 9993 /it/
-9469 /en-US/?cache=no
 9199 /en-US/kb/troubleshoot-SEC_ERROR_UNKNOWN_ISSUER?as=u&utm_source=inproduct
 8880 /1/firefox/54.0/WINNT/en-US/insecure-password
 8654 /en-US/kb/whats-new-firefox-ios-20?mobile=1&as=u&utm_source=inproduct&minimal=1
@@ -84,7 +79,6 @@
 6457 /en-US/kb/reset-firefox-easily-fix-most-problems
 5892 /en-US/products
 5827 /en-US/products/firefox/install-and-update-firefox
-5818 /en/?cache=no
 5710 /1/firefox/53.0/WINNT/en-US/firefox-help
 5565 /en-US/kb/add-on-signing-in-firefox?as=u&utm_source=inproduct
 5471 /products/mobile?utm_source=inproduct&utm_medium=default-bookmarks&utm_campaign=mobileandroid
@@ -98,15 +92,8 @@
 5001 /pt-BR/kb/what-does-your-connection-is-not-secure-mean
 4752 /de/kb/what-does-your-connection-is-not-secure-mean
 4737 /ja/kb/insecure-password-warning-firefox?as=u&utm_source=inproduct
-4716 /geoip-suggestion?locales%5B%5D=en-US&locales%5B%5D=bn-BD
-4711 /en-US/users/login
 4659 /en-US/products/mobile
-4587 /html/assets/favicon.ico?399B2CBCF3D749C30070D6B603FF1993
-4424 /en-US/search/xml
 4357 /1/firefox/52.1.0/WINNT/zh-CN/insecure-password
-4231 /en-US/locales
-4221 /static/sumo/fonts/Komikax-webfont.e0f9183ec536.ttf?v=1
-4165 /static/sumo/fonts/MetaWebPro-Medium.ef01057ecc48.ttf?v=1
 4093 /1/firefox/53.0/WINNT/en-GB/insecure-password
 4090 /pt-BR/kb/como-corrigir-o-erro-sec_error_unknown_issuer?as=u&utm_source=inproduct
 4047 /pt-BR/kb/troubleshoot-SEC_ERROR_UNKNOWN_ISSUER?as=u&utm_source=inproduct
@@ -138,7 +125,6 @@
 3262 /tr/
 3252 /1/firefox/52.0.2/WINNT/zh-CN/insecure-password
 3222 /en-US/kb/make-firefox-default-browser-android?utm_source=inproduct&utm_medium=settings&utm_campaign=mobileandroid
-3218 /robots.txt
 3172 /de/products/firefox?as=u&utm_source=inproduct
 3124 /id/
 3093 /1/firefox/53.0/WINNT/es-MX/insecure-password
@@ -177,9 +163,7 @@
 2514 /en-US/products/mobile?as=u&utm_source=inproduct
 2493 /de/kb/wichtig-firefox-unterstutzung-endet-fur-windows-xp?as=u&utm_source=inproduct
 2482 /1/firefox/53.0/WINNT/en-US/unsigned-addons
-2452 /en-US/html/assets/favicon.ico?399B2CBCF3D749C30070D6B603FF1993
 2427 /fr/kb/mettre-jour-firefox-derniere-version
-2427 /en-US/questions/new
 2419 /zh-TW/
 2417 /1/firefox/52.1.0/WINNT/fr/insecure-password
 2416 /static/fontawesome/fonts/fontawesome-webfont.706450d7bba6.ttf?v=4.3.0
