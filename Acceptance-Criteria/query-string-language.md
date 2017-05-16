@@ -1,6 +1,6 @@
 # Test that correct article is returned when language is specified as query parameter.
 
-_Note lithium will need to provide name of query parameter XXX used as placholder._
+_Note lithium will need to provide name of query parameter. XXX used as placholder._
 
 
 
