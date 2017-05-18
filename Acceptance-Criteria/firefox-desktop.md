@@ -18,7 +18,6 @@ https://support.mozilla.org/kb/reset-firefox-easily-fix-most-problems
 https://support.mozilla.org/kb/automatic-translation
 https://support.mozilla.org/kb/fix-video-audio-problems-firefox-windows
 https://support.mozilla.org/kb/fix-video-audio-problems-firefox-windows
-https://support.mozilla.org/@AB_CD@/products/firefox
 https://support.mozilla.org/kb/flash-protected-mode-settings
 https://support.mozilla.org/kb/flash-blocklists
 ```
@@ -26,6 +25,8 @@ https://support.mozilla.org/kb/flash-blocklists
 ## Wildcard Redirects
 
 ```
+https://support.mozilla.org/@AB_CD@/products/firefox
+
 https://support.mozilla.org/%LOCALE%/products/firefox 
 https://support.mozilla.org/1/firefox/%VERSION%/%OS%/%LOCALE%/accessibility-ppt
 https://support.mozilla.org/1/firefox/%VERSION%/%OS%/%LOCALE%/customize
