@@ -27,7 +27,6 @@
 20028 /1/firefox/53.0/WINNT/fr/insecure-password
 19689 /kb/reset-firefox-easily-fix-most-problems
 19405 /ru/
-19021 /favicon.ico
 18445 /en-US/products/firefox?as=u&utm_source=inproduct
 17783 /es-ES/kb/insecure-password-warning-firefox?as=u&utm_source=inproduct
 17383 /pt-BR/
